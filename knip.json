@@ -1,0 +1,11 @@
+{
+    "$schema": "https://unpkg.com/knip@5/schema.json",
+    "project": ["src/**/*.(ts|tsx)"],
+    "ignore": [
+        "src/shared/generated/**/*",
+        "src/components/ui/**/*",
+        "src/shared/hooks/index.ts",
+        "src/i18n.ts"
+    ],
+    "exclude": ["dependencies", "binaries", "unlisted"]
+}

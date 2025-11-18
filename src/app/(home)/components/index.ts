@@ -1,0 +1,10 @@
+export * from './HeroArea';
+export { default as SupportBy } from './SupportBy';
+export * from './Features';
+export * from './HowToPlay';
+export { default as AboutUs } from './AboutUs'; 
+export * from './AppScreen';
+export * from './Testimonial';
+export { default as Faqs } from './Faqs';
+export { default as DownloadApp } from './DownloadApp';
+export { default as Overview } from './Overview';
